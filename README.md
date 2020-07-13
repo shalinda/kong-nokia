@@ -8,6 +8,7 @@ https://docs.konghq.com/2.0.x/db-less-and-declarative-config/#the-declarative-co
 https://docs.konghq.com/0.4.x/tutorials/hello-world/
 
 cd deploy
+
 docker build -t kong-nokia .
 
 docker run --name kong \
